@@ -118,8 +118,6 @@ int main() {
                 return 0;
             }
         }
-        
-        
 
         Sleep(150);
     }
